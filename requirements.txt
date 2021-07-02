@@ -1,0 +1,6 @@
+tensorflow
+pickle
+flask
+numpy==1.19.2
+gunicorn
+pillow
